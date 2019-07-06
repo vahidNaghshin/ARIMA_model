@@ -28,7 +28,8 @@ This is the solution to the exercises of chapter 8 of forcasting: prinsiples and
 -![GitHub Logo](/ets_usmelec.png)
 
 - Sheep population (in millions) of England and Wales: 1867–1939.
--![GitHub Logo](/ets_usmelec.png)
+-![GitHub Logo](/sheep.png)
+-![GitHub Logo](/sheepfcst.png)
 
 -
 
